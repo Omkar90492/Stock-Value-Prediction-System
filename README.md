@@ -1,4 +1,4 @@
-📈 **Stock Price Prediction Using Historical Data**
+📈 Stock Price Prediction Using Historical Data
 
 This project focuses on analyzing and predicting stock prices using historical price data combined with company information. It merges financial datasets, performs trend analysis, and applies a simple regression model to forecast future prices. The project includes meaningful visualizations and performance evaluation.
 ---

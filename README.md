@@ -45,11 +45,13 @@ Stock Prediction Project/
 **Step 2✅ Install required libraries:**
 
   pip install pandas matplotlib scikit-learn
+  
 **Step 3✅ Make sure prices.csv and securities.csv are in the same folder:**
 
 **Step 4✅ Run the Python script:**
 
 python stock_price_lstm.py
+
 **Step 5✅ View the generated graphs & check console output for Mean Squared Error**
 
 ---

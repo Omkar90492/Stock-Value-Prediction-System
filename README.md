@@ -58,17 +58,15 @@ python stock_price_lstm.py
 
 ## 📌 Results
 
-## 📈 Accuracy Chart
-![Accuracy](images/accuracy_comparison.png)
+### 🔹 Actual vs Predicted Prices
+![Actual vs Predicted Prices](image/Actual%20vs%20Predicted%20Prices.png)
 
-## 🧪 Confusion Matrix - XGBoost
-![XGBoost](images/confusion_matrix_xgboost.png)
+### 🔹 Closing Price Trend
+![Closing Price Trend](image/Closing%20Price%20Trend.png)
 
-## 🌲 Confusion Matrix - Random Forest
-![RandomForest](images/confusion_matrix_randomforest.png)
+### 🔹 Moving Average Graph
+![Moving Average Graph](image/Moving%20Average%20Graph.png)
 
-## 💻 Confusion Matrix - SVC
-![SVC](images/confusion_matrix_svc.png)
 
 ---
 
